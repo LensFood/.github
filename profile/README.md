@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="/profile/img/Logo Toekangku FIX.png" />
+  <img align="center" src="./images/LensFood 1.png" />
 </p>
 
 # LensFood: Food Nutrition and Exercise Assistant
