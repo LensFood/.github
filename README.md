@@ -1,1 +1,1 @@
-# LensFood: Food Calorie Tracker and Workout Recomendation App
+# LensFood: Food Nutrition and Exercise Assistant
