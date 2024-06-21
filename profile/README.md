@@ -12,7 +12,7 @@ With increasing awareness about the importance of health and wellness, more peop
 ---
 
 ## Infrastructure Design
-<img src="./images/lensfood-infrastructure-design.png" 
+<img src="./images/LensFood Infrastucture Design Background.png" 
 alt="LensFood Infrastructure Design" 
 width="800px" 
 style="border-radius: 40px; border: 2px solid #42B983"/>
