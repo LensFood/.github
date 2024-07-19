@@ -4,8 +4,12 @@
 
 # LensFood: Food Nutrition and Exercise Assistant
 
-> Manually tracking calories and planning workouts can be time-consuming and complicated. Traditional calorie counting methods often fall short due to one-size-fits-all targets, inaccurate wearable devices, and the complexity of maintaining long-term adjustments. These approaches can lead to errors, frustration, and unsustainable habits, making it difficult for individuals to effectively manage their weight (Nuckols, 2022, p. 1).
-With increasing awareness about the importance of health and wellness, more people are becoming conscious of their diet and fitness routines. Obesity, which can lead to joint issues and impact fertility, has prompted comprehensive awareness campaigns. These campaigns promote balanced diets and physical activity through schools, workplaces, and communities using various media (Basile et al., 2024, p. 2). An app that helps track food calories and provides personalized workout recommendations aligns perfectly with this trend.
+> In Indonesia, where over 30% of adults struggle with obesity, We see the rising rates of obesity in Indonesia, and it worries us. We believe everyone deserves to feel healthy and energized. That's why we're creating this application
+Our vision is a mobile app that can detect food calories and provide personalized workout recommendations. Imagine this: you snap a picture of your lunch, and the app instantly tells you its calorie content! This information is then integrated with a personalized workout system, guiding you toward effective exercises that fit your fitness level and goals.
+We believe machine learning holds the key to unlocking a personalized approach to health management. Our app will harness this power to make healthy living easier and more accessible. We envision it as a holistic health companion, seamlessly integrating with wearable devices and health data platforms to provide a comprehensive view of your well-being.
+Through continuous user testing and evaluation, we're committed to refining the app's usability and effectiveness. Our goal is to make it an indispensable tool for anyone seeking to take control of their health and embrace a healthier lifestyle.
+Together, we believe that our calorie detection and workout recommendation app can make a significant impact in the fight against obesity. By empowering individuals with informed choices, we hope to improve health outcomes and create a more fulfilling life for all.
+
 
 > We need **nutrition** for our body, but we rarely know **how much nutrition and what foods** can fulfill them. According to that situation, the problem is **how to calculate the nutrition of foods** that our body needs. The **solution** is to help other people to **organize their diet** to their **ideal body nutrition needs**. Our idea is to make an Android-based application with a machine learning model to **calculate how much nutrition** the user needs and give a **recommendation** about what **foods with nutrition** and **exercise** that is suitable for the user.
 
@@ -26,7 +30,7 @@ style="border-radius: 40px; border: 2px solid #42B983"/>
 ### Machine Learning Division
 | Bangkit ID | Name | University | Profile |
 |:----------:|:----:|:----------:|:-------:|
-|M012D4KX3083|Hairunissa Rizka Utiarahman|Telkom University|<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+|M012D4KX3083|Hairunissa Rizka Utiarahman|Telkom University|<a href="http://www.linkedin.com/in/hairunissautiarahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
 |M117D4KY1422|Keindra Bagas Maulana|Institut Teknologi Nasional Bandung|<a href="https://www.linkedin.com/in/kenbamaulana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
 |M012D4KY2302|Ishfahan Dzilalin Nuha|Telkom University|<a href="https://www.linkedin.com/in/ishfahandnuha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
 
