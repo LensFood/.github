@@ -2,7 +2,7 @@
   <img align="center" src="./images/LensFood 1.png" />
 </p>
 
-# LensFood: Food Nutrition and Workout Assistant
+# LensFood: Food Calorie Tracker and Workout Recommendation
 
 > In Indonesia, where over 30% of adults struggle with obesity, We see the rising rates of obesity in Indonesia, and it worries us. We believe everyone deserves to feel healthy and energized. That's why we're creating this application
 Our vision is a mobile app that can detect food calories and provide personalized workout recommendations. Imagine this: you snap a picture of your lunch, and the app instantly tells you its calorie content! This information is then integrated with a personalized workout system, guiding you toward effective exercises that fit your fitness level and goals.
