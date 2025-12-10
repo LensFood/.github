@@ -1,8 +1,14 @@
 <p align="center">
   <img align="center" src="./images/LensFood 1.png" />
+  alt="LensFood Logo"
 </p>
 
 # LensFood: Food Calorie Tracker and Workout Recommendation
+
+<img src="./images/LensFood.png" 
+alt="LensFood Banner" 
+width="800px" 
+style="border-radius: 40px; border: 2px solid #42B983"/>
 
 > In Indonesia, where over 30% of adults struggle with obesity, We see the rising rates of obesity in Indonesia, and it worries us. We believe everyone deserves to feel healthy and energized. That's why we're creating this application
 Our vision is a mobile app that can detect food calories and provide personalized workout recommendations. Imagine this: you snap a picture of your lunch, and the app instantly tells you its calorie content! This information is then integrated with a personalized workout system, guiding you toward effective exercises that fit your fitness level and goals.
@@ -45,3 +51,23 @@ style="border-radius: 40px; border: 2px solid #42B983"/>
 |:----------:|:----:|:----------:|:-------:|
 |A117D4KY3638|Ajri Inda Robby|Institut Teknologi Nasional Bandung|<a href="https://www.linkedin.com/in/ajri-robby-24ab91221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
 |A299D4KX3906|Syahla Ismah Aprilia|Universitas Pendidikan Indonesia|<a href="https://www.linkedin.com/in/syahlaaprilia1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan" height="30" width="30"/></a>|
+
+---
+
+## Implementation
+<img src="./images/LensFood Implementation.png" 
+alt="LensFood Implementation" 
+width="800px" 
+style="border-radius: 40px; border: 2px solid #42B983"/>
+
+---
+
+---
+
+## Infrastructure Design
+<img src="./images/LensFood Result.png" 
+alt="LensFood Result" 
+width="800px" 
+style="border-radius: 40px; border: 2px solid #42B983"/>
+
+---
