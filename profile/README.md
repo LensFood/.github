@@ -1,6 +1,5 @@
 <p align="center">
-  <img align="center" src="./images/LensFood 1.png" />
-  alt="LensFood Logo"
+  <img alt="LensFood Logo" align="center" src="./images/LensFood 1.png" />
 </p>
 
 # LensFood: Food Calorie Tracker and Workout Recommendation
